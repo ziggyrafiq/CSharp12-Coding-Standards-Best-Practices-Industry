@@ -1,0 +1,15 @@
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample06\bin\Debug\net8.0\ZiggyRafiq.CodeExample06.exe
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample06\bin\Debug\net8.0\ZiggyRafiq.CodeExample06.deps.json
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample06\bin\Debug\net8.0\ZiggyRafiq.CodeExample06.runtimeconfig.json
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample06\bin\Debug\net8.0\ZiggyRafiq.CodeExample06.dll
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample06\bin\Debug\net8.0\ZiggyRafiq.CodeExample06.pdb
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample06\obj\Debug\net8.0\ZiggyRafiq.CodeExample06.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample06\obj\Debug\net8.0\ZiggyRafiq.CodeExample06.AssemblyInfoInputs.cache
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample06\obj\Debug\net8.0\ZiggyRafiq.CodeExample06.AssemblyInfo.cs
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample06\obj\Debug\net8.0\ZiggyRafiq.CodeExample06.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample06\obj\Debug\net8.0\ZiggyRafiq.CodeExample06.sourcelink.json
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample06\obj\Debug\net8.0\ZiggyRafiq.CodeExample06.dll
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample06\obj\Debug\net8.0\refint\ZiggyRafiq.CodeExample06.dll
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample06\obj\Debug\net8.0\ZiggyRafiq.CodeExample06.pdb
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample06\obj\Debug\net8.0\ZiggyRafiq.CodeExample06.genruntimeconfig.cache
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample06\obj\Debug\net8.0\ref\ZiggyRafiq.CodeExample06.dll

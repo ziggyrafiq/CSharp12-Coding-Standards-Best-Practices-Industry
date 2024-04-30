@@ -1,0 +1,15 @@
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample04.Calculator\bin\Debug\net8.0\ZiggyRafiq.CodeExample04.Calculator.exe
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample04.Calculator\bin\Debug\net8.0\ZiggyRafiq.CodeExample04.Calculator.deps.json
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample04.Calculator\bin\Debug\net8.0\ZiggyRafiq.CodeExample04.Calculator.runtimeconfig.json
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample04.Calculator\bin\Debug\net8.0\ZiggyRafiq.CodeExample04.Calculator.dll
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample04.Calculator\bin\Debug\net8.0\ZiggyRafiq.CodeExample04.Calculator.pdb
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample04.Calculator\obj\Debug\net8.0\ZiggyRafiq.CodeExample04.Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample04.Calculator\obj\Debug\net8.0\ZiggyRafiq.CodeExample04.Calculator.AssemblyInfoInputs.cache
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample04.Calculator\obj\Debug\net8.0\ZiggyRafiq.CodeExample04.Calculator.AssemblyInfo.cs
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample04.Calculator\obj\Debug\net8.0\ZiggyRafiq.CodeExample04.Calculator.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample04.Calculator\obj\Debug\net8.0\ZiggyRafiq.CodeExample04.Calculator.sourcelink.json
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample04.Calculator\obj\Debug\net8.0\ZiggyRafiq.CodeExample04.Calculator.dll
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample04.Calculator\obj\Debug\net8.0\refint\ZiggyRafiq.CodeExample04.Calculator.dll
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample04.Calculator\obj\Debug\net8.0\ZiggyRafiq.CodeExample04.Calculator.pdb
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample04.Calculator\obj\Debug\net8.0\ZiggyRafiq.CodeExample04.Calculator.genruntimeconfig.cache
+E:\GitHub\CSharp12-Coding-Standards-Best-Practices-Industry\ZiggyRafiq CodeExamples\ZiggyRafiq.CodeExample04.Calculator\obj\Debug\net8.0\ref\ZiggyRafiq.CodeExample04.Calculator.dll

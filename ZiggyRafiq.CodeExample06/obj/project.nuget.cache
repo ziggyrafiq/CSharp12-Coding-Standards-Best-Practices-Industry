@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JZ6m3wFn0js69J0A0pnoiL3t3qumxy8t7hLP0HXljVAYj3Kgwzug0MKsQYImm53nEQncjWmEkEP4nXUBTl8uCA==",
+  "success": true,
+  "projectFilePath": "E:\\GitHub\\CSharp12-Coding-Standards-Best-Practices-Industry\\ZiggyRafiq CodeExamples\\ZiggyRafiq.CodeExample06\\ZiggyRafiq.CodeExample06.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ziggy\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.4\\microsoft.codeanalysis.analyzers.3.3.4.nupkg.sha512"
+  ],
+  "logs": []
+}
