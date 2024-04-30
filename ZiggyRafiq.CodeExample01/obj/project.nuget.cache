@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "niXtwt09eGBxsynGU9BoW5P/f2garA2Jdp+qp0xFToqziRX4tgiudWQgkfM2UQLawLDja+KXEJLWYu3Www6VlA==",
+  "success": true,
+  "projectFilePath": "E:\\GitHub\\CSharp12-Coding-Standards-Best-Practices-Industry\\ZiggyRafiq CodeExamples\\ZiggyRafiq.CodeExample01\\ZiggyRafiq.CodeExample01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ziggy\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
